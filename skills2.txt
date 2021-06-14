@@ -1,0 +1,8 @@
+internet
+unix
+bash
+trybe
+escola
+cidade
+terminal
+testes
